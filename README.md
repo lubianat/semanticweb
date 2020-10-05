@@ -1,4 +1,4 @@
-# semanticweb
+# Semantic Web Resources
 Resources to learn about the semantic web
 
 
