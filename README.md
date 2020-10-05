@@ -54,8 +54,6 @@ _Heiko Paulheim, University of Mannheim_
 
 [class link](https://www.uni-mannheim.de/dws/teaching/course-details/courses-for-master-candidates/ie-650-semantic-web-technologies/#c101802)
 
-
-
 # MOOCs
 
 ## Knowledge Engineering with Semantic Web Technologies
@@ -79,5 +77,9 @@ _Prof. Dr. Harald Sack, Dr. Maria Koutraki_
 ## Web of Data
 
 [Course link](coursera.org/learn/web-data#syllabus)
+
+## Practical Knowledge Modelling: Ontology Development 101
+
+[Course link](https://www.udemy.com/course/practical-knowledge-modelling/)
 
 ##
