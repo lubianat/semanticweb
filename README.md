@@ -83,3 +83,9 @@ _Prof. Dr. Harald Sack, Dr. Maria Koutraki_
 [Course link](https://www.udemy.com/course/practical-knowledge-modelling/)
 
 ##
+
+# Slide decks
+
+## OWL Tutorial
+
+[Slide deck link](https://protege.stanford.edu/conference/2006/submissions/slides/OWLTutorial_Part1.pdf)
