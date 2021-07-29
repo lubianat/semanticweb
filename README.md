@@ -1,6 +1,10 @@
 # Semantic Web Resources
 Resources to learn about the semantic web
 
+# Materiais em português:
+
+https://ceweb.br/guias/web-semantica/ 
+
 
 # University Course Materials
 
