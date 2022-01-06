@@ -96,3 +96,11 @@ _Prof. Dr. Harald Sack, Dr. Maria Koutraki_
 ## OWL Tutorial
 
 [Slide deck link](https://protege.stanford.edu/conference/2006/submissions/slides/OWLTutorial_Part1.pdf)
+
+
+# Books
+
+## Knowledge Graphs
+
+Excellent book, html freely available! 
+[book link](https://kgbook.org/)
