@@ -78,6 +78,9 @@ _Prof. Dr. Harald Sack, Dr. Maria Koutraki_
 [Course link](https://open.hpi.de/courses/semanticweb2017)
 
 
+# Information Service Engineering (ISE) (Lectures 6-9)
+[course link](https://ise-fizkarlsruhe.github.io/ISE-teaching/)
+
 ## Web of Data
 
 [Course link](coursera.org/learn/web-data#syllabus)
